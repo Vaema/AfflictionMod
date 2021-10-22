@@ -1,2 +1,2 @@
-# AfflictionMod
-Affliction Mod for tModLoader
+# Affliction Mod
+Affliction Mod for tModLoader.
